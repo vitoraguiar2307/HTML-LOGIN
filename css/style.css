@@ -144,10 +144,14 @@ form input[type="submit"]:hover {
     color: white;
 }
 
-.footer .social-field.twitter {
-    background: linear-gradient(to right, #56a7f2, #468aca);
-}
-
 .footer .social-field.facebook {
     background: linear-gradient(to right, #1e3c72, #2a5298);
+}
+
+.footer .social-field.linkedin {
+    background: linear-gradient(to right, white, #2a5298);
+}
+
+.footer .social-field.twitter {
+    background: linear-gradient(to right, #56a7f2, #468aca);
 }
